@@ -15,6 +15,7 @@ from itertools import groupby
 
 shortURL = "https://monit-opensearch.cern.ch/dashboards/goto/e0b026c5a3dbb183ceb31062397f7627?security_tenant=global"
 # Long URL https://monit-opensearch.cern.ch/dashboards/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&_a=(columns:!(_type,data.end_time,data.server_site),filters:!(),index:AWnEUpm3NZZoUCd3kmbV,interval:auto,query:(language:kuery,query:''),sort:!())
+shortURL = "https://monit-opensearch.cern.ch/dashboards/goto/a0f7c00228eda9912b056811d6d4bdce"
 
 #def get_rucio_transfers (dbid=9269, size=10000, gte="now-30m/m",lte="now",unique_f = "metadata.timestamp", tie_breaker_id = "data.request_id"):
 
